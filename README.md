@@ -1,0 +1,2 @@
+# projem
+kişisel blog
